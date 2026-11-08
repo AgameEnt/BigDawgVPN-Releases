@@ -1,8 +1,8 @@
 {
   "packageName": "com.bigdawg.bdvpn",
-  "versionCode": 22,
-  "versionName": "1.24",
-  "apkUrl": "https://github.com/AgameEnt/BigDawgVPN-Releases/releases/download/v1.24/BigDawgVPN-v1.24.apk",
-  "sha256": "adb8e4263af68eb627c5eea283c7a81d50cdcac43e888a3f2f8f4e2a5f5361b9",
+  "versionCode": 24,
+  "versionName": "1.26",
+  "apkUrl": "https://github.com/AgameEnt/BigDawgVPN-Releases/releases/download/v1.26/BigDawgVPN-v1.26.apk",
+  "sha256": "5294cf52d42a25e6a17c8b4cae61c725be60e2eacc5a95c380f7616c145e038b",
   "notes": "Official Big Dawg VPN update with improvements and fixes."
 }
